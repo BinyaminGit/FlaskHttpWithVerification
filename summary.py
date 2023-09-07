@@ -1,5 +1,6 @@
 import verification_tool
 import load_tests
+import pytest
 
 def generate_summary():
     print("Running Functionality Tests...")
