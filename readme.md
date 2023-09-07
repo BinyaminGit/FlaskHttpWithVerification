@@ -7,14 +7,14 @@ e-commerce RESTful API. This tool will:
 3. Provide a **test summary** with performance metrics.
 The project will consist of multiple Python files and will use Flask for the API and Pytest for testing.
 
-##Prerequisites
+## Prerequisites
 1. Install Python
 2. Install Flask and Pytest via pip:
 ```
 pip install Flask pytest
 ```
 
-##Project Structure
+## Project Structure
 1. app.py: Contains the Flask API code.
 2. verification_tool.py: Houses the verification tool code.
 3. load_tests.py: Houses the performance/load tests.
