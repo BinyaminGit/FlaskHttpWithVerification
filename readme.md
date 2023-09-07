@@ -1,4 +1,4 @@
-#Flask with verification (PyTest)
+# Flask with verification (PyTest)
 This is a Python verification tool for a simulated 
 e-commerce RESTful API. This tool will:
 
