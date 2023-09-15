@@ -25,6 +25,4 @@ Run app.py to start the Flask server.
 Run summary.py to run both functionality and performance tests.
 Here, summary.py acts as the driver script that runs all functionality and performance tests, providing a comprehensive summary at the end. You can further extend it to collect and analyze performance metrics over time.
 
-```
-pioj dkjcsaljcls
-```
+
